@@ -82,10 +82,11 @@ module boolean(A,B,C,D,W,X,Y,Z,F1,F2);
 ```
 **RTL Schematic**
 FULL ADDER
-<img width="1460" height="816" alt="WhatsApp Image 2026-05-21 at 9 08 27 PM" src="https://github.com/user-attachments/assets/a2b3bb99-1f61-4a0f-aec6-51bbed6e205b" />
-FULL SUBTRACTOR:
 <img width="1461" height="818" alt="WhatsApp Image 2026-05-21 at 9 09 20 PM" src="https://github.com/user-attachments/assets/df4114df-83e9-4faa-aa87-0acc9f61835d" />
 
+FULL SUBTRACTOR:
+
+<img width="1460" height="816" alt="WhatsApp Image 2026-05-21 at 9 08 27 PM" src="https://github.com/user-attachments/assets/a2b3bb99-1f61-4a0f-aec6-51bbed6e205b" />
 **Output Timing Waveform**
 FULL ADDER:
 <img width="1463" height="825" alt="WhatsApp Image 2026-05-21 at 9 09 46 PM" src="https://github.com/user-attachments/assets/0e2eeed9-f1e1-46ff-83c1-c2a5069e2320" />
